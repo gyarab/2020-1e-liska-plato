@@ -40,7 +40,7 @@
                 <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
               </rowConstraints>
               <children>
-                  <Rectangle fx:id="p24" arcHeight="5.0" arcWidth="5.0" fill="#45d992" height="30.0" smooth="false" stroke="#ffffff00" strokeType="INSIDE" visible="false" width="30.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
+                  <Rectangle fx:id="player" arcHeight="5.0" arcWidth="5.0" fill="#45d992" height="30.0" smooth="false" stroke="#ffffff00" strokeType="INSIDE" visible="false" width="30.0" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="3" GridPane.valignment="CENTER" />
                   </children>
             </GridPane>
             <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="448.0" prefWidth="250.0">
