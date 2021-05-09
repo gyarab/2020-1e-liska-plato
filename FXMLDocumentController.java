@@ -44,7 +44,7 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Button left, down, right, up, waste, place, hrat;
     @FXML
-    private Rectangle player, box;
+    private Rectangle player;
     
     @FXML
     private void hrej() {
